@@ -27,9 +27,9 @@ let stadt, berg, fluss
 function aufgabe4() {
   console.debug("Aufgabe 4 ==========================");
   //ToDo: füge ab hier Deinen Code ein
-let stadt="Berlin"
+let stadt="Freudenstadt"
 let berg="Mount Everest Schwaben"
-let fluss="Nil"
+let fluss="Neckar"
   console.debug(stadt,", ", berg,", ", fluss);
 }
 
@@ -40,9 +40,9 @@ function aufgabe5() {
   console.debug("Aufgabe 5 ==========================");
 
   //ToDo: füge ab hier Deinen Code ein
-let name="Elon Musk"
-let alter="50"
-let groesseInMeter="1.88"
+let name="Michael Hornung"
+let alter="42"
+let groesseInMeter="1.78"
 let amLeben="true"  
   console.debug(name);
   console.debug(alter);
