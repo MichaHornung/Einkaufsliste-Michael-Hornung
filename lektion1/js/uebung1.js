@@ -28,7 +28,7 @@ function aufgabe4() {
   console.debug("Aufgabe 4 ==========================");
   //ToDo: füge ab hier Deinen Code ein
 let stadt="Berlin"
-let berg="Mount Everest"
+let berg="Mount Everest Schwaben"
 let fluss="Nil"
   console.debug(stadt,", ", berg,", ", fluss);
 }
