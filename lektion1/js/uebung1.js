@@ -41,9 +41,9 @@ function aufgabe5() {
 
   //ToDo: füge ab hier Deinen Code ein
 let name="Michael Hornung"
-let alter="42"
-let groesseInMeter="1.78"
-let amLeben="true"  
+let alter=42
+let groesseInMeter=1.78
+let amLeben=true
   console.debug(name);
   console.debug(alter);
   console.debug(groesseInMeter);
